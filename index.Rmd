@@ -1,0 +1,41 @@
+---
+title: "Fahim Ahmed"
+image: "FA_headshot1.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/fahim-ahmed-58061485/"
+  - label: Twitter
+    url: "https://twitter.com/apitaph"
+  - label: GitHub
+    url: "https://github.com/far24"
+  - label: Email
+    url: "mailto:fahim.ahmed.rd@gmail.com"
+  - label: Blog
+    url: "https://ahmedf.netlify.app/"
+    
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Fahim Ahmed studies vehicle routing problem and their applications in supply chain logistics at [UofSCTransportation Group](http://www.ce.sc.edu/huynh/). His research focuses on real-time vehicle routing planning under disruption scenrios. He works in a reasearch group at UofSC that frequently collaborates with researchers who studies transportation aspects of the supply chain logistics.
+
+
+## Education
+
+[**University of South Carolina (UofSC)**](https://sc.edu/) | Columbia, SC
+
+* Ph.D. in Civil Engineering (Transportation) | August 2015 - Present
+
+* M.S. in Civil Engineering | August 2015 - May 2018
+
+[**Bangladesh University of Engineering & Technology (BUET)**](https://www.buet.ac.bd/web/) | Dhaka, BD
+
+* B.Sc. in Civil Engineering | January 2009 - July 2014
+
+## Experience
+
+**[UofSCTransportation Group](http://www.ce.sc.edu/huynh/)** | Advisor: [Dr. Nathan Huynh](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/huynh_nathan.php) | August 2015 - Present
+
+**CEE, UofSC** | Instructor | Spring 2020, Fall 2020, *Spring 2021*
