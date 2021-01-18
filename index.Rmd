@@ -4,6 +4,8 @@ image: "FA_headshot1.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/fahim-ahmed-58061485/"
+  - label: CV
+    url: "./FA_cv.html"
   - label: Twitter
     url: "https://twitter.com/apitaph"
   - label: GitHub
