@@ -1,6 +1,6 @@
 ---
 title: "Fahim Ahmed"
-image: "FA_headshot1.jpeg"
+image: "2021-0226_0364 Fahim Ahmed.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/fahim-ahmed-58061485/"
