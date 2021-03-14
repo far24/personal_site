@@ -14,7 +14,7 @@ links:
     url: "mailto:fahim.ahmed.rd@gmail.com"
   - label: Blog
     url: "https://ahmedf.netlify.app/"
-    
+site: distill::distill_website
 output:
   postcards::trestles
 ---
@@ -28,7 +28,7 @@ Fahim Ahmed studies vehicle routing problem and their applications in supply cha
 
 [**University of South Carolina (UofSC)**](https://sc.edu/) | Columbia, SC
 
-* Ph.D. in Civil Engineering (Transportation) | August 2015 - Present
+* Ph.D. in Civil Engineering (Transportation/Logistics) | August 2015 - Present
 
 * M.S. in Civil Engineering | August 2015 - May 2018
 
